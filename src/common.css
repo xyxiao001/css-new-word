@@ -1,0 +1,33 @@
+.flex {
+  display: flex;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.title-name {
+  font-size: 20px;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.des {
+  font-size: 14px;
+  color: gray;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.box {
+  margin: 20px 0;
+}
