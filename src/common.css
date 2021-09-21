@@ -28,6 +28,14 @@
   background-color: red;
 }
 
+.bg-black {
+  background-color: black;
+}
+
+.white {
+  color: white;
+}
+
 .box {
   margin: 20px 0;
 }

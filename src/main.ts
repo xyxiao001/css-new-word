@@ -13,6 +13,11 @@ const routes = [
     path: '/keywords',
     name: 'keywords',
     component: () => import('./pages/keywords.vue'),
+  },
+  {
+    path: '/chapter3',
+    name: 'chapter3',
+    component: () => import('./pages/chapter3.vue'),
   }
 ]
 
